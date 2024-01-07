@@ -11,7 +11,7 @@ const Footer = () => {
                 <section className="footer__nav--container">
                     <section className="footer__central__logo__container">
                         <NavLink className="a-logo-spa" to="/">
-                            <img className="logo__hvt--main--footer" src="../../../src/assets/LogoHVTest&diagnosticsSpa.png" alt="HVTest-company-logo" />
+                            <img className="logo__hvt--main--footer" src="../../../../hvtest/src/Components/Footer/assetsFooter/logofooter.png" alt="HVTest-company-logo" />
                         </NavLink>
                     </section>
                     <section className="footer__central__container">

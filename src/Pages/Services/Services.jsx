@@ -7,8 +7,8 @@ const Services = () => {
         <Layout>
             <section className="services__header__main__container">
                 <section className="services__header__container">
-                    <img src="../../../src/assets/torresElectricasV.png" alt="services-image-1" className="services__header--image-1"/>
-                    <img src="../../../src/assets/derecha1.jpg" alt="services-image-1" className="services__header--image-2" />
+                    <img src="../../../../hvtest/src/Pages/Services/assetsServices/torresElectricasV.png" alt="services-image-1" className="services__header--image-1"/>
+                    <img src="../../../../hvtest/src/Pages/Services/assetsServices/derecha1.jpg" alt="services-image-1" className="services__header--image-2" />
                     <h1 className="services__header--main--title">Servicio de<br></br>ingeniería<br />
                         <b className="styling__word">eléctrica de</b><br />
                         <b className="styling__word">alto estandar</b></h1>

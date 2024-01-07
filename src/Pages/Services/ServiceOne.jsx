@@ -14,52 +14,64 @@ function ServiceOne () {
                     entre los cuales podemos destacar entre otros:
                 </p>
                 <section className="serviceone__article__container-right">
-                    <ul className="serviceone__characteristics">
-                        <li>transformadores de potencia</li>
-                        <li>conductores</li>
-                        <li>celdas</li>
-                        <li>descargadores de sobretensión</li>
-                        <li>líneas de transmisión</li>
-                        <li>sistemas de puesta a tierra</li>
-                        <li>subestaciones GIS (Aisladas en SF6)</li>
-                    </ul>
-                    <img className="serviceone__image" src="../../../src/assets/dere-1.jpg" alt="" />
+                    <section>
+                        <h2>Titulo prueba</h2>
+                        <ul className="serviceone__characteristics">
+                            <li>transformadores de potencia</li>
+                            <li>conductores</li>
+                            <li>celdas</li>
+                            <li>descargadores de sobretensión</li>
+                            <li>líneas de transmisión</li>
+                            <li>sistemas de puesta a tierra</li>
+                            <li>subestaciones GIS (Aisladas en SF6)</li>
+                        </ul>
+                    </section>
+                    <img className="serviceone__image" src="../../../../hvtest/src/Pages/Services/assetsServices/derecha1.jpg" alt="" />
                 </section>
                 <section className="serviceone__article__container-left">
-                    <img className="serviceone__image" src="../../../src/assets/dere-1.jpg" alt="" />
-                    <ul className="serviceone__characteristics">
-                        <li>transformadores de potencia</li>
-                        <li>conductores</li>
-                        <li>celdas</li>
-                        <li>descargadores de sobretensión</li>
-                        <li>líneas de transmisión</li>
-                        <li>sistemas de puesta a tierra</li>
-                        <li>subestaciones GIS (Aisladas en SF6)</li>
-                    </ul>
+                    <img className="serviceone__image" src="../../../../hvtest/src/Pages/Services/assetsServices/derecha1.jpg" alt="" />
+                    <section>
+                        <h2>Titulo prueba</h2>
+                        <ul className="serviceone__characteristics">
+                            <li>transformadores de potencia</li>
+                            <li>conductores</li>
+                            <li>celdas</li>
+                            <li>descargadores de sobretensión</li>
+                            <li>líneas de transmisión</li>
+                            <li>sistemas de puesta a tierra</li>
+                            <li>subestaciones GIS (Aisladas en SF6)</li>
+                        </ul>
+                    </section>
                 </section>
                 <section className="serviceone__article__container-right">
-                    <ul className="serviceone__characteristics">
-                        <li>transformadores de potencia</li>
-                        <li>conductores</li>
-                        <li>celdas</li>
-                        <li>descargadores de sobretensión</li>
-                        <li>líneas de transmisión</li>
-                        <li>sistemas de puesta a tierra</li>
-                        <li>subestaciones GIS (Aisladas en SF6)</li>
-                    </ul>
-                    <img className="serviceone__image" src="../../../src/assets/dere-1.jpg" alt="" />
+                    <section>
+                        <h2>Titulo prueba</h2>
+                        <ul className="serviceone__characteristics">
+                            <li>transformadores de potencia</li>
+                            <li>conductores</li>
+                            <li>celdas</li>
+                            <li>descargadores de sobretensión</li>
+                            <li>líneas de transmisión</li>
+                            <li>sistemas de puesta a tierra</li>
+                            <li>subestaciones GIS (Aisladas en SF6)</li>
+                        </ul>
+                    </section>
+                    <img className="serviceone__image" src="../../../../hvtest/src/Pages/Services/assetsServices/derecha1.jpg" alt="" />
                 </section>
                 <section className="serviceone__article__container-left">
-                    <img className="serviceone__image" src="../../../src/assets/dere-1.jpg" alt="" />
-                    <ul className="serviceone__characteristics">
-                        <li>transformadores de potencia</li>
-                        <li>conductores</li>
-                        <li>celdas</li>
-                        <li>descargadores de sobretensión</li>
-                        <li>líneas de transmisión</li>
-                        <li>sistemas de puesta a tierra</li>
-                        <li>subestaciones GIS (Aisladas en SF6)</li>
-                    </ul>
+                    <img className="serviceone__image" src="../../../../hvtest/src/Pages/Services/assetsServices/derecha1.jpg" alt="" />
+                    <section>
+                        <h2>Titulo prueba</h2>
+                        <ul className="serviceone__characteristics">
+                            <li>transformadores de potencia</li>
+                            <li>conductores</li>
+                            <li>celdas</li>
+                            <li>descargadores de sobretensión</li>
+                            <li>líneas de transmisión</li>
+                            <li>sistemas de puesta a tierra</li>
+                            <li>subestaciones GIS (Aisladas en SF6)</li>
+                        </ul>
+                    </section>
                 </section>
             </section>
         </Layout>

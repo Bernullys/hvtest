@@ -8,13 +8,13 @@ const workersInfo = [
     {
         name: "Jose Manuel Freitez",
         position: "Ingeniero Eléctricista",
-        profileImage: "../../../src/assets/dere-1.jpg",
+        profileImage: "../../../../hvtest/src/Pages/Us/assetsUs/profile.jpg",
         linkTolinkedin: "https://www.linkedin.com/in/jos%C3%A9-manuel-freitez-martos-932190bb/"
     },
     {
         name: "Leonardo Alejandro Nuñez",
         position: "Ingeniero Eléctricista",
-        profileImage: "../../../src/assets/dere-1.jpg",
+        profileImage: "../../../../hvtest/src/Pages/Us/assetsUs/profile.jpg",
         linkTolinkedin: "https://www.linkedin.com/in/leonardo-alejandro-nu%C3%B1ez-araujo-0a465979/"
     }
 ]

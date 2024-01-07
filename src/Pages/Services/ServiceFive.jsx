@@ -6,7 +6,7 @@ const testGears = [
         name: "Micróhmetro 200 A",
         brand: "Dv Power",
         model: "RMO 200G",
-        image: "../../../src/Pages/Services/gear-images/RMO200G.png",
+        image: "../../../../hvtest/src/Pages/Services/assetsServices/RMO200G.png",
         description: `La serie RMO-G de Micro Ohmímetros se basan en una tecnología de vanguardia, utilizando la técnica de 
         conmutación más avanzada disponible en la actualidad. La principal diferencia entre estos modelos es la máxima
         corriente de prueba que se puede generar (100 A para RMO100G, 200 A para RMO200G y de hasta 800 A para
@@ -23,7 +23,7 @@ const testGears = [
         name: "Micróhmetro 10 A",
         brand: "Avo",
         model: "DLRO 10",
-        image: "../../../src/Pages/Services/gear-images/DLRO10.png",
+        image: "../../../../hvtest/src/Pages/Services/assetsServices/DLRO10.png",
         description: `El ohmiómetro DLRO10 y DLRO10X aporta un nuevo estándar en la medición de bajos valores de
         resistencias. Ambos son instrumentos totalmente automáticos, que seleccionan la corriente de
         prueba más idónea, de hasta 10 A de c.c., para medir resistencias desde 0,1μΩ hasta 2.000Ω , en
@@ -45,7 +45,7 @@ const testGears = [
         name: "Medidor de aislamiento 10 kV",
         brand: "Megger",
         model: "MIT 1020/2",
-        image: "./../../../src/Pages/Services/gear-images/MIT10202.png",
+        image: "../../../../hvtest/src/Pages/Services/assetsServices/MIT10202.png",
         description: `El modelo MIT1020/2, 10 kV probador de resistencia de aislamiento diseñado específicamente para
         ayudar al usuario con las pruebas y el mantenimiento de alta tensión. Los instrumentos están diseñados en un
         estilo paisajístico que es más familiar y fácil de usar.`,
@@ -65,7 +65,7 @@ const testGears = [
         name: "Medidor de relación de transformación TTR",
         brand: "Aemc",
         model: "DTR 8510",
-        image: "../../../src/Pages/Services/gear-images/AEMCDTR8510.png",
+        image: "../../../../hvtest/src/Pages/Services/assetsServices/AEMCDTR8510.png",
         description: `AEMC DTR 8510 es un medidor de relación de transformación digital portátil diseñado para pruebas in situ de
         transformadores de potencia, potencial y corriente. No se requiere calibración del usuario, selección de rango,
         manivela manual o equilibrado tedioso. En cada medición, el DTR auto calibra y comprueba automáticamente si hay
@@ -90,7 +90,7 @@ const testGears = [
         name: "Cámara termográfica",
         brand: "Flir",
         model: "E5",
-        image: "../../../src/Pages/Services/gear-images/FLIRE5.png",
+        image: "../../../../hvtest/src/Pages/Services/assetsServices/FLIRE5.png",
         description: `La FLIR E5 es de las primeras cámaras infrarrojas real con imágenes térmicas visibles y MSX.
         Ahora todos los técnicos e inspectores de la industria pueden permitirse el lujo de usar una cámara de
         la Serie E útil para escaneos rápidos y controles de seguridad. Es más fácil de usar que un teléfono
@@ -107,7 +107,7 @@ const testGears = [
         name: "Máquina para confección de mufas o terminaciones",
         brand: "Alroc",
         model: "MF3/60",
-        image: "../../../src/Pages/Services/gear-images/ALROCMF360.png",
+        image: "../../../../hvtest/src/Pages/Services/assetsServices/ALROCMF360.png",
         description: ``,
         characteristics: `- Cortar / serrar
         - Quitar la cubierta exterior
@@ -123,7 +123,7 @@ const testGears = [
         name: "Medidor de aislamiento 10 kV",
         brand: "Megger",
         model: "S1 - 1068",
-        image: "../../../src/Pages/Services/gear-images/MEGGERS1-1068.png",
+        image: "../../../../hvtest/src/Pages/Services/assetsServices/MEGGERS1-1068.png",
         description: `Megger modelo 10 kV denominados S1-1068, Estos instrumentos de alta gama tienen como
         objetivos empresas de servicios públicos y empresas de servicios que trabajan en los mercados de
         generación, transmisión y distribución. La corriente de carga de primera clase, el rechazo de ruido y
@@ -145,7 +145,7 @@ const testGears = [
         name: "Telurometro",
         brand: "Aemc",
         model: "6472",
-        image: "./../../../src/Pages/Services/gear-images/AEMC6472.png",
+        image: "../../../../hvtest/src/Pages/Services/assetsServices/AEMC6472.png",
         description: `El ohmetro de tierra C.A 6472 es un instrumento de medida portátil completo para realizar medidas de tierra,
         medidas de resistividad de los terrenos, tensión de paso y contacto, y con el accesorio Pylon box C.A 6474,
         medidas de tierra de las torres. Se presenta en una carcasa resistente y estanca. Se alimenta por una batería

@@ -71,12 +71,12 @@ const GenericCardServices = () => {
                 </section>
                 <section className="grid__projects_images">
                     <article className="left__project__article">
-                        <img src="../../../src/assets/dere-3.jpg" alt="" />
+                        <img src="../../../../hvtest/src/Components/GenericCardServices/assetsGenericCards/dere-3.jpg" alt="" />
                         <section  className="project__descripcion__main__container_left">
                             <section className="project__descripcion__main__section_left">
                                 <h3>NOMBRE DEL CLIENTE</h3>
                                 <p>Breve descripción del proyecto Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque . . .</p>
-                                <NavLink to="./contacto">
+                                <NavLink to="./contactanos">
                                     <button>Contactanos</button>
                                 </NavLink>
                             </section>
@@ -84,24 +84,24 @@ const GenericCardServices = () => {
                     </article>
                     <section className="right__project__images--container">
                         <article className="right__project__article-one">
-                            <img src="../../../src/assets/dere-3.jpg" alt="" />
+                            <img src="../../../../hvtest/src/Components/GenericCardServices/assetsGenericCards/dere-3.jpg" alt="" />
                             <section className="project__descripcion__main__container_right">
                                 <section className="project__descripcion__main__section_right">
                                     <h3>NOMBRE DEL CLIENTE2</h3>
                                     <p>Breve descripción del proyecto Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque . . .</p>
-                                    <NavLink to="./contacto">
+                                    <NavLink to="./contactanos">
                                         <button>Contactanos</button>
                                     </NavLink>
                                 </section>
                             </section>
                         </article>
                         <article className="right__project__article-two">
-                            <img src="../../../src/assets/dere-3.jpg" alt=""/>
+                            <img src="../../../../hvtest/src/Components/GenericCardServices/assetsGenericCards/dere-3.jpg" alt=""/>
                             <section className="project__descripcion__main__container_right">
                                 <section className="project__descripcion__main__section_right">
                                     <h3>NOMBRE DEL CLIENTE3</h3>
                                     <p>Breve descripción del proyecto Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque . . .</p>
-                                    <NavLink to="./contacto">
+                                    <NavLink to="./contactanos">
                                         <button>Contactanos</button>
                                     </NavLink>
                                 </section>

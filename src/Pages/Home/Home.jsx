@@ -23,7 +23,7 @@ const Home = () => {
             <section className="main--title--container">
               <h1 className="home__main--title">Servicios <b className="styling__word">de Ingeniería</b> <br></br> de Calidad para la Industria</h1>
               <section className="home__main-buttons-container">
-                <NavLink to="./contacto">
+                <NavLink to="./contactanos">
                   <button className="home__main--button--left" >Contactanos</button>
                 </NavLink>
                 <NavLink to="./proyectos">
