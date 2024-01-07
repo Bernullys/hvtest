@@ -9,7 +9,7 @@ const Services = () => {
                 <section className="services__header__container">
                     <img src="../../../../hvtest/src/Pages/Services/assetsServices/torresElectricasV.png" alt="services-image-1" className="services__header--image-1"/>
                     <img src="../../../../hvtest/src/Pages/Services/assetsServices/derecha1.jpg" alt="services-image-1" className="services__header--image-2" />
-                    <h1 className="services__header--main--title">Servicio de<br></br>ingeniería<br />
+                    <h1 className="services__header--main--title">Servicio de<br></br>ingenieríaaaaaa<br />
                         <b className="styling__word">eléctrica de</b><br />
                         <b className="styling__word">alto estandar</b></h1>
                     <p className="services__header--paragraph">En <b>HVTest</b>, nos comprometemos con la importancia de la infraestructura eléctrica, 
