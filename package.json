@@ -1,5 +1,6 @@
 {
   "name": "hvtest",
+  "homepage": "https://bernullys.github.io/hvtest/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
