@@ -1,0 +1,98 @@
+.logo__hvt--main--footer {
+    height: 176px;
+
+}
+
+.footer__nav--container {
+    display: flex;
+    justify-content: flex-start;
+    width: 1228px;
+}
+
+
+.footer__central__logo__container {
+    margin-top: 40px;
+    margin-left: 0px;
+}
+
+.footer__central__container {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    width: 752px;
+    height: 64px;
+    
+}
+.footer__nav__ul--social {
+    border-left: 1px solid #FFFF;
+    margin: 0;
+    height: 20px;
+}
+
+.footer__nav__ul {
+    list-style: none;
+    color: #FFFF;
+    margin: 0;
+    padding: 0;
+    text-align:justify;
+}
+
+.footer__solcial__logo{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.footer__nav__ul h3 {
+    color: #FFFF;
+    margin: 0 0 10px 0;
+    font-size: 16px;
+    font-family: "futuraLtBt";
+}
+
+.footer__nav__ul li {
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "futuraLtBt";
+    line-height: 16.94px;
+    
+    
+}
+
+.footer__insta-logo,
+.footer__linke-logo,
+.footer__whatsapp-logo {
+    height: 20px;
+    width: 20px;
+    color: #FFFFFF;
+    margin-right: 30px;
+}
+
+.footer__full__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #18CAFF;
+    width: 100%;
+    height: 341px;
+}
+
+.botton__rights {
+    display: flex;
+    justify-content: space-between;
+    width: 1228px;
+    height: 34px;
+    margin: 0;
+    border-top: 1px solid #FFF;
+}
+
+.botton__rights ul {
+    position: relative;
+    list-style: none;
+    color: #FFF;
+    font-size: 14px;
+    font-family: "futuraLtBt";
+    padding: 30px 0 0 0;
+    margin: 0;
+}

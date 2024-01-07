@@ -1,0 +1,414 @@
+.services__header__main__container {
+    display: flex;
+    justify-content: center;
+    height: 724px;
+    flex-shrink: 0;
+    margin-top: 0.5px;
+    background: linear-gradient(180deg, rgba(45, 187, 229, 0.50) 0%, rgba(158, 233, 255, 0.10) 30.98%, rgba(45, 187, 229, 0.00) 68.36%);
+}
+
+.services__header__container {
+    width: 1440px;
+    height: 659px;
+    position: relative;
+    align-items: center;
+}
+
+.services__header--image-1 {
+    width: 400px;
+    height: 659px;
+    object-fit: cover;
+    border-radius: 0px 0px 30px 30px;
+    position: absolute;
+    left: 205px;
+}
+
+.services__header--image-2 {
+    width: 234px;
+    height: 392px;
+    object-fit: cover;
+    border-radius: 0px 0px 30px 30px;
+    position: absolute;
+    right: 327px;
+}
+
+.services__header--main--title {
+    color: #3D3D3D;
+    font-family: "futuraLtBt";
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 92%;
+    letter-spacing: -2.32px;
+    text-align: right;
+    position: absolute;
+    top: 180px;
+    left: 337px;
+    margin: 0px;
+    width: 486px;
+    height: 214px;
+}
+
+.styling__word {
+    color: #18CAFF;
+}
+
+.services__header--paragraph {
+    color: #3D3D3D;
+    font-family: "futuraLtBt";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 508px;
+    height: 125px;
+    position: absolute;
+    top: 418px;
+    right: 227px;
+    text-align: justify;
+    margin: 0;
+}
+
+/*content container*/
+
+.services__content__main__container {
+    background: rgba(45, 187, 229, 0.10);
+    display: flex;
+    justify-content: center;
+    
+}
+
+.services__content__container {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    width: 1440px;
+    height: 2970px;
+    align-items: center;
+}
+
+.services__content__title {
+    color: #3D3D3D;
+    text-align: center;
+    font-family: "futuraLtBt";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: absolute;
+    width: 100%;
+    top: 76px;
+    margin: 0;
+}
+
+.services__content__paragraph {
+    color: #3D3D3D;
+    text-align: center;
+    font-family: "futuraLtBt";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 811px;
+    height: 75px;
+    position: absolute;
+    top: 147px;
+    margin: 0px;
+}
+
+.services__content__subtitle {
+    color: #3D3D3D;
+    text-align: center;
+    font-family: "futuraLtBt";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: absolute;
+    width: 100%;
+    top: 300px;
+    margin: 0;
+}
+
+/*/////////////First service////////////////////////////*/
+
+.service__container {
+    width: 1228px;
+    height: 465px;
+    flex-shrink: 0;
+    opacity: 1;
+    background: url("../../../src/assets/dere-1.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    mix-blend-mode: multiply;
+    position: absolute;
+    top: 400px;
+}
+
+.service__container::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #10A4CE;
+    opacity: 0.8;
+}
+
+.service__container--article {
+    position: relative;
+    z-index: 2;
+}
+
+.service__container--article--title {
+    color: #FFF;
+    font-family: "futuraLtBt";
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50px;
+    width: 692px;
+    position: absolute;
+    left: 104px;
+    top: 97px;
+    margin: 0;
+    z-index: 13;
+}
+
+.service__container--article--button--container--left {
+    position: absolute;
+    width: 500px;
+    height: 465px;
+}
+
+.service__container--article--button--left {
+    display: flex;
+    width: 189px;
+    height: 55px;
+    padding: 5.011px;
+    justify-content: center;
+    align-items: center;
+    gap: 5.011px;
+    border-radius: 88.809px;
+    border: 2px solid #FFF;
+    color: #FFF;
+    text-align: center;
+    font-family: "futuraLtBt";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: transparent;
+    cursor: pointer;
+    position: absolute;
+    bottom: 0px;
+    left: 104px;
+}
+
+/*//////////////Second service///////////////////////*/
+
+.service__container-2 {
+    width: 1228px;
+    height: 465px;
+    flex-shrink: 0;
+    opacity: 1;
+    background: url("../../../src/assets/dere-1.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    mix-blend-mode: multiply;
+    position: absolute;
+    top: 895px;
+}
+
+.service__container-2::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #006EDC;
+    opacity: 0.9;
+}
+
+.service__container--article {
+    position: relative;
+    z-index: 2;
+}
+
+.service__container--article--title {
+    color: #FFF;
+    font-family: "futuraLtBt";
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50px;
+    width: 692px;
+    position: absolute;
+    left: 104px;
+    top: 97px;
+    margin: 0;
+    z-index: 13;
+
+}
+
+.service__container--article--title-2 {
+    color: #FFF;
+    font-family: "futuraLtBt";
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50px;
+    width: 792px;
+    position: absolute;
+    right: 104px;
+    top: 97px;
+    margin: 0;
+    text-align: end;
+}
+
+.service__container--article--button--container--right {
+    position: absolute;
+    width: 500px;
+    height: 465px;
+    right: 0px;
+}
+
+.service__container--article--button--right {
+    display: flex;
+    width: 189px;
+    height: 55px;
+    padding: 5.011px;
+    justify-content: center;
+    align-items: center;
+    gap: 5.011px;
+    border-radius: 88.809px;
+    border: 2px solid #FFF;
+    color: #FFF;
+    text-align: center;
+    font-family: "futuraLtBt";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: transparent;
+    cursor: pointer;
+    position: absolute;
+    bottom: 0px;
+    right: 104px;
+}
+
+
+/*//////////////Third Service///////////////////////*/
+
+.service__container-3 {
+    width: 1228px;
+    height: 465px;
+    flex-shrink: 0;
+    opacity: 1;
+    background: url("../../../src/assets/dere-1.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    mix-blend-mode: multiply;
+    position: absolute;
+    top: 1390px;
+}
+
+.service__container-3::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #38B000;
+    opacity: 0.8;
+}
+
+/*////////////////Fourth service/////////////////////*/
+
+.service__container-4 {
+    width: 1228px;
+    height: 465px;
+    flex-shrink: 0;
+    opacity: 1;
+    background: url("../../../src/assets/dere-1.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    mix-blend-mode: multiply;
+    position: absolute;
+    top: 1885px;
+}
+
+.service__container-4::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #10A4CE;
+    opacity: 0.8;
+}
+
+/*////////////////Fith service /////////////////////*/
+
+.service__container-5 {
+    width: 1228px;
+    height: 465px;
+    flex-shrink: 0;
+    opacity: 1;
+    background: url("../../../src/assets/dere-1.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    mix-blend-mode: multiply;
+    position: absolute;
+    top: 2380px;
+}
+
+.service__container-5::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #006EDC;
+    opacity: 0.9;
+}
+
+/*/////////////////////////////////////*/
+
+.servicefive__title {
+    color: black;
+    text-align: center;
+    font-family: "futuraLtBt";
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50px;
+    margin: 100px 0 0 0;
+}
+
+.servicefive__main__container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.servicefive__paragraph {
+    margin: 40px 0 40px 0;
+    color: #3D3D3D;
+    text-align: center;
+    font-family: "futuraLtBt";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

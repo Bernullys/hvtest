@@ -1,0 +1,196 @@
+.home__main--container {
+    height: 555px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.50) 0%, rgba(66, 66, 66, 0.10) 45.31%, rgba(255, 255, 255, 0.00) 100%), url("../../assets/torresElectricasI.png");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    margin-top: 0.5px;
+} 
+
+.main--title--container {
+    display: flex;
+    justify-content: center;
+}
+
+.home__main--title {
+    position: absolute;
+    top: 265px;
+    z-index: 2;
+    margin: 0;
+    padding: 0;
+    
+    color: #fff;
+    text-align: center;
+    font-family: "futuraLtBt";
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.styling__word {
+    color: #18CAFF;
+}
+
+.home__main-buttons-container {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    top: 326px;
+}
+
+.home__main-buttons-container a {
+    text-decoration: none;
+}
+
+.home__main--button--left {
+    display: flex;
+    width: 189px;
+    height: 55px;
+    padding: 5.011px;
+    justify-content: center;
+    align-items: center;
+    gap: 5.011px;
+    border-radius: 88.809px;
+    background: #18CAFF;
+
+    color: #FFF;
+    text-align: center;
+    font-family: "futuraLtBt";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    border: none;
+    cursor: pointer;
+}
+
+.home__main--button--rigth {
+    display: flex;
+    width: 189px;
+    height: 55px;
+    padding: 5.011px;
+    justify-content: center;
+    align-items: center;
+    gap: 5.011px;
+    border-radius: 88.809px;
+    border: 0.888px solid #FFF;
+
+    color: #FFF;
+    text-align: center;
+    font-family: "futuraLtBt";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    background: transparent;
+    cursor: pointer;
+}
+
+/*//////////////////////////////////////////////////////////////*/
+
+.home__bottom {
+    align-items: center;
+    background-color: #FFFFFF;
+    height: 411px;
+}
+
+.home__botton--title {
+    position: relative;
+    top: 75px;
+    bottom: 20px;
+    margin: 0;
+
+    color: #3D3D3D;
+    text-align: center;
+    font-family: "futuraLtBt";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.home__botton--paragraph--container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.home__botton--paragraph--container a {
+    text-decoration: none;
+}
+
+.home__botton--paragraph {
+    position: relative;
+    top: 95px;
+    width: 811px;
+    height: 125px;
+
+    color: #3D3D3D;
+    text-align: center;
+    font-family: "futuraLtBt";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.home__bottom--button {
+    display: flex;
+    width: 189px;
+    padding: 5.011px;
+    justify-content: center;
+    align-items: center;
+    gap: 5.011px;
+    border-radius: 88.809px;
+    border: 1px solid #18CAFF;
+
+    color: #18CAFF;
+    text-align: center;
+    font-family: "futuraLtBt";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    background: transparent;
+    position:relative;
+    top: 26px;
+    cursor: pointer;
+    height: 55px;
+
+
+
+}
+
+/*/////////////////////////////////////////////////////////////////////////*/
+
+.home__social__logos__container {
+    position: absolute;
+    top: 130px;
+    right: 106px;
+}
+
+.footer__solcial__logo {
+    width: 24px;
+    height: 24px;
+    margin: 0px;
+}
+
+.insta-logo,
+.linke-logo,
+.whatsapp-logo {
+    width: 24px;
+    height: 24px;
+    color: #FFFFFF;
+    padding: 0;
+}
+
+.insta-logo,
+.linke-logo {
+    margin-right: 30px;
+}

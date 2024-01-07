@@ -1,0 +1,64 @@
+.testgear__article__main__container {
+    display: flex;
+}
+
+.testgear__article__container {
+    border: 1px solid gray;
+    margin: 50px;
+    width: 600px;
+}
+
+.testgear__image__container {
+    display: flex;
+    justify-content: center;
+}
+
+.testgear__image {
+    width: 400px;
+    object-fit: cover;
+}
+
+.testgear__name {
+    margin: 0;
+    color: #3D3D3D;
+    text-align: center;
+    font-family: "futuraLtBt";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.testgear__brand,
+.testgear__model {
+    margin: 0;
+    color: #3D3D3D;
+    text-align: center;
+    font-family: "futuraLtBt";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+}
+
+.testgear__subtitle {
+    margin: 0;
+    color: #3D3D3D;
+    text-align: left;
+    font-family: "futuraLtBt";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+}
+
+.testgear__description,
+.testgear__characteristics {
+    color: #3D3D3D;
+    text-align: justify;
+    font-family: "futuraLtBt";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
