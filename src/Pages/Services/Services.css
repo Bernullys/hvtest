@@ -403,7 +403,10 @@
 }
 
 .servicefive__paragraph {
+    display: block;
     margin: 40px 0 40px 0;
+    width: 800px;
+    justify-content: center;
     color: #3D3D3D;
     text-align: center;
     font-family: "futuraLtBt";
@@ -411,4 +414,10 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+}
+
+.servicefive__titleanddescription__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }

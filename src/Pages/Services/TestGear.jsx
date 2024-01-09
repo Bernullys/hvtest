@@ -13,7 +13,7 @@ function TestGears ( { name, brand, model, image, description, characteristics, 
                 <h2 className="testgear__model">Modelo: {model}</h2>
                 <h4 className="testgear__subtitle">Descripción:</h4>
                 <p className="testgear__description">{description}</p>
-                <a href={eett} target="_blank" rel="noopener noreferrer">Ficha técnica</a>
+                <a href={eett} target="_blank" rel="noopener noreferrer" className="testgear__eett">Ficha técnica</a>
             </article>
         </section>
     )

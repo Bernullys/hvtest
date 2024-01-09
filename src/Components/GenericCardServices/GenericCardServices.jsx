@@ -37,27 +37,37 @@ const GenericCardServices = () => {
                     <section className={`card--inner--container ${(hightLightedService === 1 ? selectedService : undefined)}`}>
                         <MdElectricBolt className="card__service__icon"/>
                         <p className="card__text__description">PRUEBAS ELÉCTRICAS DE ACEPTACIÓN A EQUIPOS ELÉCTRICOS</p>
-                        <button className="card__service__button">Ver Servicio</button>    
+                        <NavLink to="/servicios/pruebas">
+                            <button className="card__service__button">Ver Servicio</button>    
+                        </NavLink>
                     </section>
                     <section className={`card--inner--container ${(hightLightedService === 2 ? selectedService : undefined)}`}>
                         <BiSolidShield className="card__service__icon"/>
                         <p className="card__text__description">CONTROL Y PROTECCIÓNES ELÉCTRICAS</p>
-                        <button className="card__service__button">Ver Servicio</button>    
+                        <NavLink to="/servicios/control">
+                            <button className="card__service__button">Ver Servicio</button>    
+                        </NavLink>
                     </section>
                     <section className={`card--inner--container ${(hightLightedService === 3 ? selectedService : undefined)}`}>
                         <BsTools className="card__service__icon"/>
                         <p className="card__text__description">MANTENIMIENTO Y PUESTA EN SERVICIO DE EQUIPOS ELÉCTRICOS</p>
-                        <button className="card__service__button">Ver Servicio</button>    
+                        <NavLink to="/servicios/mantenimiento">
+                            <button className="card__service__button">Ver Servicio</button>    
+                        </NavLink>
                     </section>
                     <section className={`card--inner--container ${(hightLightedService === 4 ? selectedService : undefined)}`}>
                         <GiSellCard className="card__service__icon"/>
                         <p className="card__text__description">ARRIENDO EQUIPOS DE PRUEBAS ELÉCTRICAS</p>
-                        <button className="card__service__button">Ver Servicio</button>    
+                        <NavLink to="/servicios/arriendo">
+                            <button className="card__service__button">Ver Servicio</button>    
+                        </NavLink>
                     </section>
                     <section className={`card--inner--container ${(hightLightedService === 5 ? selectedService : undefined)}`}>
                         <FaHandsHelping className="card__service__icon"/>
                         <p className="card__text__description">ASESORÍA TÉCNICA</p>
-                        <button className="card__service__button">Ver Servicio</button>    
+                        <NavLink to="/servicios/asesoría">
+                            <button className="card__service__button">Ver Servicio</button>    
+                        </NavLink>
                     </section>
                 </section>
                 <section className="card__arrows__container">

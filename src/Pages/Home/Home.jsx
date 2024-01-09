@@ -33,7 +33,7 @@ const Home = () => {
             </section>
           </section>
             <section className="home__bottom">
-              <h2 className="home__botton--title">Bienvenidos a HVTest</h2>
+              <h2 className="home__botton--title">Bienvenidos a HV Test</h2>
               <section className="home__botton--paragraph--container">
                 <p className="home__botton--paragraph">Somos una empresa de servicios electricos conformada por profesionales de ingenieria, especialistas en el area de baja, media y alta tension, orientados a satifaser las exigencias de nuestros clientes.</p>
               </section>

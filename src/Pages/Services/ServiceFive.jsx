@@ -158,6 +158,26 @@ const testGears = [
         - Potencial de tierra
         - Resistencia de tierra de las torres con el accesorio Pylon box C.A 6474`,
         eett: "../../../src/assets/pdfs/PRESENTACION PARA PAGINA WEB 2.0.pdf"
+    },
+    {
+        name: "Micróhmetro 10 A",
+        brand: "Aemc",
+        model: "6250",
+        image: "../../../../hvtest/src/Pages/Services/assetsServices/AEMC6250.png",
+        description: `El micrómetro C.A 6250 es un aparato de medida de alta calidad,
+        digital, portátil, con pantalla LCD retroiluminada. Está destinado a medir valores
+        de resistencia muy débiles. Se presenta en una carcasa estanca y robusta con tapa.
+        El C.A 6250 es un aparato autónomo, alimentado por una batería recargable con cargador
+        integrado. Propone 7 calibres de medida, de 5 mW a 2500 W, directamente accesibles y
+        seleccionables por el conmutador giratorio ubicado en el frontal. Funciona según el método
+        de medida de 4 hilos con una compensación automática de las tensiones parásitas.`,
+        characteristics: `- Medida de continuidad de masas.
+        - Medida de resistencias de motores y de transformadores.
+        - Medida de resistencias de contacto.
+        - Medidas de componentes.
+        - Medidas de resistencias de cables eléctricos.
+        - Test de conexiones mecánicas.`,
+        eett: "../../../src/assets/pdfs/PRESENTACION PARA PAGINA WEB 2.0.pdf"
     }
 ] 
 
@@ -165,12 +185,14 @@ function ServiceFive () {
 
     return (
         <Layout>
-            <h1 className="servicefive__title">Arriendo de Equipos de Pruebas Eléctricas</h1>
-            <p className="servicefive__paragraph">
-                Nuestra empresa comprometida con la importancia de la infraestructura eléctrica brinda un gran conjunto de
-                servicios específicos en el área de pruebas eléctricas a los diferentes equipos instalados en los sistemas eléctricos,
-                entre los cuales podemos destacar entre otros:
-            </p>
+                <h1 className="servicefive__title">Arriendo de Equipos de Pruebas Eléctricas</h1>
+            <section className="servicefive__titleanddescription__container">
+                <p className="servicefive__paragraph">
+                    Nuestra empresa comprometida con la importancia de la infraestructura eléctrica brinda un gran conjunto de
+                    servicios específicos en el área de pruebas eléctricas a los diferentes equipos instalados en los sistemas eléctricos,
+                    entre los cuales podemos destacar entre otros:
+                </p>
+            </section>
             <section className="servicefive__main__container">
                 {
                     testGears.map(gear => ( 
