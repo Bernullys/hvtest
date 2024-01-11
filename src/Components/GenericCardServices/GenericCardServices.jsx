@@ -13,7 +13,7 @@ const GenericCardServices = () => {
 
     const firstLastServiceSelected = "card__arrows_end"
     const selectedService = "card--inner--container--selected card--inner--container--selected p"
-    let [hightLightedService, setHightLightedService] = useState(3)
+    let [hightLightedService, setHightLightedService] = useState(0)
     const totalServices = 5
     const handleRight = () => {
         if (hightLightedService < totalServices) {
@@ -70,10 +70,10 @@ const GenericCardServices = () => {
                         </NavLink>
                     </section>
                 </section>
-                <section className="card__arrows__container">
+                {/* <section className="card__arrows__container">
                     <IoIosArrowRoundBack className={`card__arrow_left ${hightLightedService === 1 ? firstLastServiceSelected : undefined}`} onClick={handleLeft}/>
                     <IoIosArrowRoundForward className={`card__arrow_left ${hightLightedService === 5 ? firstLastServiceSelected : undefined}`} onClick={handleRight}/>
-                </section>
+                </section> */}
             </section>
             <section className="projects__main__container">
                 <section className="projects__section__title">
