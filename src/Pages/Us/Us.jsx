@@ -35,7 +35,7 @@ const Us = () => {
                     </a>
                 </section>
                 <section className="us__top__section--image--container">
-                    <h1 className="us__top__section--heding">Excepteur <b className="styling__word">sint occaecat</b> <br />cupidatat non proident</h1>
+                    <h1 className="us__top__section--heding">Personalidad <b className="styling__word">HV Test</b></h1>
                 </section>
             </section>
             <section className="us__middle__section--main--container">
@@ -60,35 +60,23 @@ const Us = () => {
             <section className="us__lower__section--main--container">
                 <section className="us__lower__section--container">
                     <h2 className="us__subtitle">¿Por que trabajar con nosotros?</h2>
-                    <p className="us__paragraph">Estamos conformados por profesionales de alto grado de experiencia en el mercado eléctrico del país, presentes en faenas de importantes empresas del rubro eléctrico, especialistas en el diagnóstico, mantención, resolución de problemas y soluciones integrales en el ámbito eléctrico, industrial y de manufactura. Nuestro servicio profesional y técnico está comprometido en la entrega de un servicio de calidad con altos estándares de calidad y seguridad. </p>
+                    <p className="us__paragraph">Nos caracterizamos por ser una empresa comprometida con los objetivos de nuestros clientes, satisfaciendo sus necesidades, brindando servicios con personas y equipos especializados y altamente calificados, para así garantizar la eficacia y la eficiencia en cada uno de los proyectos involucrados</p>
                 </section>
                 <section className="us__lower__section__characteristics--main--container">
                     <article>
                         <GrTechnology className="us__lower__icon--one"/>
-                        <h2>caracteristica</h2>
-                        <ul>
-                            <li>casasadad</li>
-                            <li>casasadad</li>
-                            <li>casasadad</li>
-                        </ul>
+                        <h2>Clientes</h2>
+                        <p>Generar valor agregado a través de la satisfacción de nuestros clientes en el desarrollo de sus proyectos</p>
                     </article>
                     <article>
                         <GrTechnology className="us__lower__icon--one"/>
-                        <h2>caracteristica</h2>
-                        <ul>
-                            <li>casasadad</li>
-                            <li>casasadad</li>
-                            <li>casasadad</li>
-                        </ul>
+                        <h2>Calidad</h2>
+                        <p>Servicios bajo estándares y normativas nacionales e internacionales</p>
                     </article>
                     <article>
                         <GrTechnology className="us__lower__icon--one"/>
-                        <h2>caracteristica</h2>
-                        <ul>
-                            <li>casasadad</li>
-                            <li>casasadad</li>
-                            <li>casasadad</li>
-                        </ul>
+                        <h2>Confianza</h2>
+                        <p>Comprometidos con cumplir todos los objetivos de nuestros clientes</p>
                     </article>
 
                 </section>

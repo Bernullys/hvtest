@@ -84,8 +84,8 @@ const GenericCardServices = () => {
                         <img src="../../../../hvtest/src/Components/GenericCardServices/assetsGenericCards/dere-3.jpg" alt="" />
                         <section  className="project__descripcion__main__container_left">
                             <section className="project__descripcion__main__section_left">
-                                <h3>NOMBRE DEL CLIENTE</h3>
-                                <p>Breve descripción del proyecto Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque . . .</p>
+                                <h3>División Chuquicamata, Codelco - Precision</h3>
+                                <p>Ensayos eléctricos y mantención a equipos de media y baja tensión tales como: Interruptores, CCM's, CDC's, Switchtgears y transformadores.</p>
                                 <NavLink to="./contactanos">
                                     <button>Contactanos</button>
                                 </NavLink>
@@ -97,8 +97,8 @@ const GenericCardServices = () => {
                             <img src="../../../../hvtest/src/Components/GenericCardServices/assetsGenericCards/dere-3.jpg" alt="" />
                             <section className="project__descripcion__main__container_right">
                                 <section className="project__descripcion__main__section_right">
-                                    <h3>NOMBRE DEL CLIENTE2</h3>
-                                    <p>Breve descripción del proyecto Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque . . .</p>
+                                    <h3>División Ministro Hales, Codelco - Ingelcop</h3>
+                                    <p>Ejecución de pruebas eléctricas a transformadores de poder 1 y 2, Subestación Eléctrica 220/23 kV.</p>
                                     <NavLink to="./contactanos">
                                         <button>Contactanos</button>
                                     </NavLink>
@@ -109,8 +109,8 @@ const GenericCardServices = () => {
                             <img src="../../../../hvtest/src/Components/GenericCardServices/assetsGenericCards/dere-3.jpg" alt=""/>
                             <section className="project__descripcion__main__container_right">
                                 <section className="project__descripcion__main__section_right">
-                                    <h3>NOMBRE DEL CLIENTE3</h3>
-                                    <p>Breve descripción del proyecto Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque . . .</p>
+                                    <h3>Subestación Nueva Pan de Azúcar, Isa Interchile - Siemens</h3>
+                                    <p>Pruebas SAT, equipo primario de alta tensión {`(compensación de potencia reactiva, línea Pan de Azúcar - Polpaico 500 kV)`}</p>
                                     <NavLink to="./contactanos">
                                         <button>Contactanos</button>
                                     </NavLink>

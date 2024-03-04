@@ -21,7 +21,7 @@ const Home = () => {
               </a>
             </section>
             <section className="main--title--container">
-              <h1 className="home__main--title">Servicios <b className="styling__word">de Ingeniería</b> <br></br> de Calidad para la Industria</h1>
+              <h1 className="home__main--title">Servicios Eléctricos <b className="styling__word">de Alto Estándar</b> <br></br>para la Industria</h1>
               <section className="home__main-buttons-container">
                 <NavLink to="./contactanos">
                   <button className="home__main--button--left" >Contactanos</button>
@@ -35,7 +35,7 @@ const Home = () => {
             <section className="home__bottom">
               <h2 className="home__botton--title">Bienvenidos a HV Test</h2>
               <section className="home__botton--paragraph--container">
-                <p className="home__botton--paragraph">Somos una empresa de servicios electricos conformada por profesionales de ingenieria, especialistas en el area de baja, media y alta tension, orientados a satifaser las exigencias de nuestros clientes.</p>
+                <p className="home__botton--paragraph">Somos una empresa de servicios eléctricos conformada por profesionales en el área de ingeniería, especialistas en baja, media y alta tensión, orientados a satisfacer las necesidades y exigenccias de nuestros clientes, de acuerdo a las normas y estándares actuales que rigen al sistema eléctrico nacional e internacional.</p>
               </section>
               <section className="home__botton--paragraph--container">
                 <NavLink to="./nosotros">

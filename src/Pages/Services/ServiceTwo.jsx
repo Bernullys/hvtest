@@ -17,52 +17,28 @@ function ServiceTwo () {
                     especificaciones antes de su implementación.
                 </p>
                 <section className="serviceone__article__container-right">
-                    <ul className="serviceone__characteristics">
-                        <li>Inspecciones técnicas de obra al sistema secundario de subestaciones</li>
-                        <li>auditorías a los sistemas de control</li>
-                        <li>protección y medida</li>
-                        <li>asegurando la eficiencia y confiabilidad de los sistemas eléctricos</li>
-                        <li>inspección de pruebas en fábrica y en terreno</li>
-                        <li>FAT</li>
-                        <li>SAT</li>
-                    </ul>
+                    <h2>Desarrollo de Ingeniería, control y protección:
+                        <h3>Ingeniería Básica:
+                            <ul className="serviceone__characteristics">
+                                <li>Desarrollo de Diagramas Lógicos.</li>
+                                <li>Arquitectura de Comunicaciones y Protecciones Eléctricas.</li>
+                            </ul>
+                        </h3>
+                        <h3>Ingeniería de Detalle:
+                            <ul className="serviceone__characteristics">
+                                <li>Revisión de detalles técnicos y diagramas elementales de corriente alterna y corriete continua.</li>
+                            </ul>
+                        </h3>
+                    </h2> 
                     <img className="serviceone__image" src="../../../src/assets/dere-1.jpg" alt="" />
                 </section>
                 <section className="serviceone__article__container-left">
                     <img className="serviceone__image" src="../../../src/assets/dere-1.jpg" alt="" />
-                    <ul className="serviceone__characteristics">
-                        <li>Inspecciones técnicas de obra al sistema secundario de subestaciones</li>
-                        <li>auditorías a los sistemas de control</li>
-                        <li>protección y medida</li>
-                        <li>asegurando la eficiencia y confiabilidad de los sistemas eléctricos</li>
-                        <li>inspección de pruebas en fábrica y en terreno</li>
-                        <li>FAT</li>
-                        <li>SAT</li>
-                    </ul>
-                </section>
-                <section className="serviceone__article__container-right">
-                    <ul className="serviceone__characteristics">
-                        <li>Inspecciones técnicas de obra al sistema secundario de subestaciones</li>
-                        <li>auditorías a los sistemas de control</li>
-                        <li>protección y medida</li>
-                        <li>asegurando la eficiencia y confiabilidad de los sistemas eléctricos</li>
-                        <li>inspección de pruebas en fábrica y en terreno</li>
-                        <li>FAT</li>
-                        <li>SAT</li>
-                    </ul>
-                    <img className="serviceone__image" src="../../../src/assets/dere-1.jpg" alt="" />
-                </section>
-                <section className="serviceone__article__container-left">
-                    <img className="serviceone__image" src="../../../src/assets/dere-1.jpg" alt="" />
-                    <ul className="serviceone__characteristics">
-                        <li>Inspecciones técnicas de obra al sistema secundario de subestaciones</li>
-                        <li>auditorías a los sistemas de control</li>
-                        <li>protección y medida</li>
-                        <li>asegurando la eficiencia y confiabilidad de los sistemas eléctricos</li>
-                        <li>inspección de pruebas en fábrica y en terreno</li>
-                        <li>FAT</li>
-                        <li>SAT</li>
-                    </ul>
+                    <h2>Sistema de Protección, Control y SCADA:
+                        <h3>Auditoría a los sistemas de control, protección y medida.</h3>
+                        <h3>Inspección técnica de obra a los sistemas secundarios de subestaciones.</h3>
+                        <h3>Actualización de los sistemas de protección y control.</h3>
+                    </h2>
                 </section>
             </section>
         </Layout>

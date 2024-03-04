@@ -9,78 +9,28 @@ function ServiceThree () {
                     Mantenimiento y Puesta en Servicio de Equipos Eléctricos
                 </h1>
                 <p className="serviceone__paragraph">
-                Una parte importante de nuestro servicio es la mantención y puesta en servicio de los equipos eléctricos instalados en cada subsistema 
-                eléctrico (Generación, transmisión y distribución eléctrica), abarcando la mayoría de equipamiento eléctrico instalado en cualquiera de
-                estos subsistemas.
-                Entre los equipos eléctricos tenemos:
+                    Con el fin de garantizar la integridad de tus sistemas eléctricos, parte importante de nuestro servicio es la mantención y puesta en
+                    marcha de los equipos eléctricos instalados en cada subsistema eléctrico (Generación, transmision y distribución eléctrica), abarcando
+                    la mayoría del equipamento eléctrico instalado en cualquiera de estos subsistemas.
                 </p>
                 <section className="serviceone__article__container-right">
+                    <h2>Entre los equipos que intervenimos tenemos:</h2>
                     <ul className="serviceone__characteristics">
                         <li>Transformadores de potencia.</li>
-                        <li>Interruptores.</li>
+                        <li>Interruptores de baja, media y alta tensión.</li>
+                        <li>Desconectadores.</li>
                         <li>Trampas de onda.</li>
                         <li>Resistencias de puesta a tierra.</li>
                         <li>Transformadores de potencial.</li>
                         <li>Transformadores de corriente.</li>
-                        <li>Capacitores.</li>
+                        <li>Banco de Condensadores.</li>
                         <li>Cables o conductores eléctricos.</li>
                         <li>Descargadores de sobretensiones.</li>
-                        <li>Configuración y pruebas de protecciones eléctricas.</li>
-                        <li>Pruebas y puesta en servicio de centro de control de motores.</li>
-                        <li>Pruebas y puesta en servicio de variadores de frecuencia, entre otros.</li>
+                        <li>Protecciones y Controles eléctricos.</li>
+                        <li>Celdas de media y baja tensión.</li>
+                        <li>Variadores de Frecuencia.</li>
                     </ul>
                     <img className="serviceone__image" src="../../../src/assets/dere-1.jpg" alt="" />
-                </section>
-                <section className="serviceone__article__container-left">
-                    <img className="serviceone__image" src="../../../src/assets/dere-1.jpg" alt="" />
-                    <ul className="serviceone__characteristics">
-                        <li>Transformadores de potencia.</li>
-                        <li>Interruptores.</li>
-                        <li>Trampas de onda.</li>
-                        <li>Resistencias de puesta a tierra.</li>
-                        <li>Transformadores de potencial.</li>
-                        <li>Transformadores de corriente.</li>
-                        <li>Capacitores.</li>
-                        <li>Cables o conductores eléctricos.</li>
-                        <li>Descargadores de sobretensiones.</li>
-                        <li>Configuración y pruebas de protecciones eléctricas.</li>
-                        <li>Pruebas y puesta en servicio de centro de control de motores.</li>
-                        <li>Pruebas y puesta en servicio de variadores de frecuencia, entre otros.</li>
-                    </ul>
-                </section>
-                <section className="serviceone__article__container-right">
-                    <ul className="serviceone__characteristics">
-                        <li>Transformadores de potencia.</li>
-                        <li>Interruptores.</li>
-                        <li>Trampas de onda.</li>
-                        <li>Resistencias de puesta a tierra.</li>
-                        <li>Transformadores de potencial.</li>
-                        <li>Transformadores de corriente.</li>
-                        <li>Capacitores.</li>
-                        <li>Cables o conductores eléctricos.</li>
-                        <li>Descargadores de sobretensiones.</li>
-                        <li>Configuración y pruebas de protecciones eléctricas.</li>
-                        <li>Pruebas y puesta en servicio de centro de control de motores.</li>
-                        <li>Pruebas y puesta en servicio de variadores de frecuencia, entre otros.</li>
-                    </ul>
-                    <img className="serviceone__image" src="../../../src/assets/dere-1.jpg" alt="" />
-                </section>
-                <section className="serviceone__article__container-left">
-                    <img className="serviceone__image" src="../../../src/assets/dere-1.jpg" alt="" />
-                    <ul className="serviceone__characteristics">
-                        <li>Transformadores de potencia.</li>
-                        <li>Interruptores.</li>
-                        <li>Trampas de onda.</li>
-                        <li>Resistencias de puesta a tierra.</li>
-                        <li>Transformadores de potencial.</li>
-                        <li>Transformadores de corriente.</li>
-                        <li>Capacitores.</li>
-                        <li>Cables o conductores eléctricos.</li>
-                        <li>Descargadores de sobretensiones.</li>
-                        <li>Configuración y pruebas de protecciones eléctricas.</li>
-                        <li>Pruebas y puesta en servicio de centro de control de motores.</li>
-                        <li>Pruebas y puesta en servicio de variadores de frecuencia, entre otros.</li>
-                    </ul>
                 </section>
             </section>
         </Layout>

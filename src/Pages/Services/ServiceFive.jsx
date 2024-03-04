@@ -188,9 +188,10 @@ function ServiceFive () {
                 <h1 className="servicefive__title">Arriendo de Equipos de Pruebas Eléctricas</h1>
             <section className="servicefive__titleanddescription__container">
                 <p className="servicefive__paragraph">
-                    Nuestra empresa comprometida con la importancia de la infraestructura eléctrica brinda un gran conjunto de
-                    servicios específicos en el área de pruebas eléctricas a los diferentes equipos instalados en los sistemas eléctricos,
-                    entre los cuales podemos destacar entre otros:
+                    Nuestra empresa comprometida con la importancia de la infraestructura eléctrica ofrece una amplia gama de
+                    servicios específicos en el área de ensayos eléctricos, entre los cuales tenemos el arriendo de equipamiento
+                    para la ejecución de pruebas eléctricas, contando con un diverso stock para cumplir las necesidades de nuestros
+                    clientes y así permitir realizar puestas en servicio y ensayos bajo criterios de las normas nacionales e internacionales.
                 </p>
             </section>
             <section className="servicefive__main__container">

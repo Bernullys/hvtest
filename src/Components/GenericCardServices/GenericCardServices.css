@@ -248,13 +248,13 @@
     position: absolute;
     top: 0px;
     left: 104px;
-    width: 492px;
+    width: 520px;
     z-index: 2;
 }
 
 .project__descripcion__main__container_right {
     position: absolute;
-    top: 200px;
+    top: 120px;
     left: 104px;
     width: 492px;
     z-index: 2;

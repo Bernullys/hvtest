@@ -189,6 +189,10 @@
     justify-content: space-around;
 }
 
+.us__lower__section__characteristics--main--container article p {
+    width: 300px;
+}
+
 .us__lower__icon--one {
     width: 92px;
     height: 92px;

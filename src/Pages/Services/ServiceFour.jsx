@@ -14,52 +14,14 @@ function ServiceFour () {
                     vigentes que rigen a cada equipamiento (IEEEStd–ANSI/NETA–IEC, entre otras).
                 </p>
                 <section className="serviceone__article__container-right">
+                    <h2>Entre las asesorías contamos con:</h2>
                     <ul className="serviceone__characteristics">
-                        <li>Inspecciones técnicas de obra al sistema secundario de subestaciones</li>
-                        <li>auditorías a los sistemas de control</li>
-                        <li>protección y medida</li>
-                        <li>asegurando la eficiencia y confiabilidad de los sistemas eléctricos</li>
-                        <li>inspección de pruebas en fábrica y en terreno</li>
-                        <li>FAT</li>
-                        <li>SAT</li>
+                        <li>Inspección técnica de obra a sistemas eléctricos.</li>
+                        <li>Auditoría a equipamiento de fuerza, control y medida.</li>
+                        <li>Inspección de pruebas en fabrica (FAT).</li>
+                        <li>Ejecución de pruebas en terreno (SAT).</li>
                     </ul>
                     <img className="serviceone__image" src="../../../src/assets/dere-1.jpg" alt="" />
-                </section>
-                <section className="serviceone__article__container-left">
-                    <img className="serviceone__image" src="../../../src/assets/dere-1.jpg" alt="" />
-                    <ul className="serviceone__characteristics">
-                        <li>Inspecciones técnicas de obra al sistema secundario de subestaciones</li>
-                        <li>auditorías a los sistemas de control</li>
-                        <li>protección y medida</li>
-                        <li>asegurando la eficiencia y confiabilidad de los sistemas eléctricos</li>
-                        <li>inspección de pruebas en fábrica y en terreno</li>
-                        <li>FAT</li>
-                        <li>SAT</li>
-                    </ul>
-                </section>
-                <section className="serviceone__article__container-right">
-                    <ul className="serviceone__characteristics">
-                        <li>Inspecciones técnicas de obra al sistema secundario de subestaciones</li>
-                        <li>auditorías a los sistemas de control</li>
-                        <li>protección y medida</li>
-                        <li>asegurando la eficiencia y confiabilidad de los sistemas eléctricos</li>
-                        <li>inspección de pruebas en fábrica y en terreno</li>
-                        <li>FAT</li>
-                        <li>SAT</li>
-                    </ul>
-                    <img className="serviceone__image" src="../../../src/assets/dere-1.jpg" alt="" />
-                </section>
-                <section className="serviceone__article__container-left">
-                    <img className="serviceone__image" src="../../../src/assets/dere-1.jpg" alt="" />
-                    <ul className="serviceone__characteristics">
-                        <li>Inspecciones técnicas de obra al sistema secundario de subestaciones</li>
-                        <li>auditorías a los sistemas de control</li>
-                        <li>protección y medida</li>
-                        <li>asegurando la eficiencia y confiabilidad de los sistemas eléctricos</li>
-                        <li>inspección de pruebas en fábrica y en terreno</li>
-                        <li>FAT</li>
-                        <li>SAT</li>
-                    </ul>
                 </section>
             </section>
         </Layout>
