@@ -4,7 +4,7 @@
 
 .testgear__article__container {
     margin: 50px;
-    width: 600px;
+    width: 400px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -19,7 +19,7 @@
 }
 
 .testgear__image {
-    width: 400px;
+    width: 300px;
     object-fit: cover;
 }
 

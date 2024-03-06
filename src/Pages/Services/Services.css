@@ -24,7 +24,7 @@
 }
 
 .services__header--image-2 {
-    width: 234px;
+    width: 434px;
     height: 392px;
     object-fit: cover;
     border-radius: 0px 0px 30px 30px;
@@ -137,9 +137,9 @@
     height: 465px;
     flex-shrink: 0;
     opacity: 1;
-    background: url("../../../src/assets/dere-1.jpg");
+    background: url("../../../src/assets/foto-home-pruebas.jpeg");
     background-size: cover;
-    background-position: top;
+    background-position: center;
     background-repeat: no-repeat;
     mix-blend-mode: multiply;
     position: absolute;
@@ -214,9 +214,9 @@
     height: 465px;
     flex-shrink: 0;
     opacity: 1;
-    background: url("../../../src/assets/dere-1.jpg");
+    background: url("../../../src/assets/foto-home-protecciones.jpeg");
     background-size: cover;
-    background-position: top;
+    background-position: center;
     background-repeat: no-repeat;
     mix-blend-mode: multiply;
     position: absolute;
@@ -309,9 +309,9 @@
     height: 465px;
     flex-shrink: 0;
     opacity: 1;
-    background: url("../../../src/assets/dere-1.jpg");
+    background: url("../../../src/assets/foto-home-mantenimiento.jpg");
     background-size: cover;
-    background-position: top;
+    background-position: center;
     background-repeat: no-repeat;
     mix-blend-mode: multiply;
     position: absolute;
@@ -336,9 +336,9 @@
     height: 465px;
     flex-shrink: 0;
     opacity: 1;
-    background: url("../../../src/assets/dere-1.jpg");
+    background: url("../../../src/assets/foto-home-ascesoria.jpeg");
     background-size: cover;
-    background-position: top;
+    background-position: center;
     background-repeat: no-repeat;
     mix-blend-mode: multiply;
     position: absolute;
@@ -363,9 +363,9 @@
     height: 465px;
     flex-shrink: 0;
     opacity: 1;
-    background: url("../../../src/assets/dere-1.jpg");
+    background: url("../../../src/assets/foto-home-arriendo.jpeg");
     background-size: cover;
-    background-position: top;
+    background-position: center;
     background-repeat: no-repeat;
     mix-blend-mode: multiply;
     position: absolute;

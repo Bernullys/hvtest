@@ -14,7 +14,7 @@ const workersInfo = [
     {
         name: "Leonardo Alejandro Nuñez",
         position: "Ingeniero Eléctricista",
-        profileImage: "../../../../hvtest/src/Pages/Us/assetsUs/profile.jpg",
+        profileImage: "../../../../hvtest/src/Pages/Us/assetsUs/leonardo.jpeg",
         linkTolinkedin: "https://www.linkedin.com/in/leonardo-alejandro-nu%C3%B1ez-araujo-0a465979/"
     }
 ]
@@ -35,7 +35,7 @@ const Us = () => {
                     </a>
                 </section>
                 <section className="us__top__section--image--container">
-                    <h1 className="us__top__section--heding">Personalidad <b className="styling__word">HV Test</b></h1>
+                    <h1 className="us__top__section--heding">Personalidad <b className="styling__word">Hv Test</b></h1>
                 </section>
             </section>
             <section className="us__middle__section--main--container">
@@ -60,7 +60,7 @@ const Us = () => {
             <section className="us__lower__section--main--container">
                 <section className="us__lower__section--container">
                     <h2 className="us__subtitle">¿Por que trabajar con nosotros?</h2>
-                    <p className="us__paragraph">Nos caracterizamos por ser una empresa comprometida con los objetivos de nuestros clientes, satisfaciendo sus necesidades, brindando servicios con personas y equipos especializados y altamente calificados, para así garantizar la eficacia y la eficiencia en cada uno de los proyectos involucrados</p>
+                    <p className="us__paragraph">Nuestra empresa se distingue por su compromiso con los objetivos de nuestros clientes. Nos esforzamos por satisfacer sus necesidades al brindar servicios con un equipo especializado y altamente calificado. Esto nos permite garantizar la eficacia y la eficiencia en cada uno de los proyectos en los que nos involucramos.</p>
                 </section>
                 <section className="us__lower__section__characteristics--main--container">
                     <article>

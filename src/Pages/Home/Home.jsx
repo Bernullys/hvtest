@@ -33,9 +33,9 @@ const Home = () => {
             </section>
           </section>
             <section className="home__bottom">
-              <h2 className="home__botton--title">Bienvenidos a HV Test</h2>
+              <h2 className="home__botton--title">Bienvenidos a Hv Test</h2>
               <section className="home__botton--paragraph--container">
-                <p className="home__botton--paragraph">Somos una empresa de servicios eléctricos conformada por profesionales en el área de ingeniería, especialistas en baja, media y alta tensión, orientados a satisfacer las necesidades y exigenccias de nuestros clientes, de acuerdo a las normas y estándares actuales que rigen al sistema eléctrico nacional e internacional.</p>
+                <p className="home__botton--paragraph">Somos una empresa de servicios eléctricos conformada por profesionales en el área de ingeniería, especialistas en baja, media y alta tensión, orientados a satisfacer las necesidades y exigencias de nuestros clientes, de acuerdo a las normas y estándares actuales que rigen al sistema eléctrico nacional e internacional.</p>
               </section>
               <section className="home__botton--paragraph--container">
                 <NavLink to="./nosotros">

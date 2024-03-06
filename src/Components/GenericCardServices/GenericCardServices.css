@@ -17,22 +17,19 @@
 
 }
 
+/* //////////////////////////////////////////////////////////////////// */
 .card--inner--container {
     width: 292px;
-    height: 422px;
+    height: 420px;
     flex-shrink: 0;
     border-radius: 14.747px;
-    background: #fff;
+    background: url("../../../../hvtest/src/assets/controliv.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+
     margin: 0px 10px 0px 10px;
-}
-
-.card--inner--container:hover {
-    background: #18caff;
-    color: #FFF;
-}
-
-.card--inner--container:hover p {
-    color: #FFF;
 }
 
 .card--inner--container--selected {
@@ -64,21 +61,23 @@
     margin: 0 0 50px 0;
 }
 
+/* /////////////////////////////////////////////////////// */
 .card__service__icon {
-    width: 92px;
-    height: 92px;
-    margin: 50px 100px 30px 100px;
+
+    width: 100%;
+    border-radius: 0 0 15px 15px;
+
 }
 
 .card__text__description {
-    color: #3D3D3D;
+    color: black;
     text-align: center;
     font-family: "futuraLtBt";
     font-size: 18px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: bolder;
     line-height: normal;
-    margin: auto 35px auto 35px;
+    margin: 35px 35px 5px 35px;
     text-align: center;
 }
 
@@ -97,7 +96,7 @@
     margin: 28.7px 84px auto 84px;
     cursor: pointer;
     position: absolute;
-    bottom: 51px;
+    bottom: 40px;
     font-family: "futuraLtBt";
     font-weight: 700;
 }
@@ -305,4 +304,22 @@ a {
     line-height: normal;
     background: transparent;
     cursor: pointer;
+}
+
+
+/* ////////////////////////////////////////////////// */
+
+.logos-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 72px;
+}
+
+.logo-cliente {
+    height: 150px;
+}
+
+.logo-cliente-mlrental {
+    height: 115px;
 }
